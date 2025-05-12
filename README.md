@@ -5,7 +5,7 @@ This analysis explores Adidas’ global sales performance across product categor
 **Introduction**
 Adidas is a globally recognized leader in the sportswear and footwear industry. With a presence in numerous international markets, the company’s performance relies heavily on understanding customer behaviour, regional profitability, and product category effectiveness. This report delivers a deep dive into Adidas’ 2021-2022 sales data to inform strategic business decisions.
 
-Dataset here: https://1drv.ms/x/c/b7bce82d5399b462/Ef3B8RqA82BKm01-Y4b98VcBUSSrVvXi9DoV77zt3w0wqQ?e=hV7JdJ
+Dataset here:(https://tinyurl.com/4zm3wt82)
 
 **Project Objectives**
 This analysis aims to answer key business questions, including:
