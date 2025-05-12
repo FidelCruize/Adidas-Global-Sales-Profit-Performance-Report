@@ -52,6 +52,7 @@ Interactive Dashboard here: https://shorturl.at/hkFSl
 3.	Men’s Athletic Footwear – Profit: $51.85M
 4.	Women’s Street Footwear – Profit: $45.21M
 5.	Men’s Apparel – Profit: $42.76M
+   
 📈 Highest Sales Volume Products
 •	Men’s Street Footwear – 593K units
 •	Men’s Athletic Footwear – 436K units
@@ -67,6 +68,7 @@ Interactive Dashboard here: https://shorturl.at/hkFSl
 •	Foot Locker: 480
 •	Kohl’s: 470
 •	Sports Direct: 441
+
 🔁 Top Customers by Spend & Frequency
 •	Foot Locker shows the highest customer frequency, indicating strong retention and loyalty.
 •	West Gear contributes the most revenue, making it the highest-value customer overall.
