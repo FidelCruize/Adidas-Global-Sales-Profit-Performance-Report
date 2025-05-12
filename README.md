@@ -29,8 +29,8 @@ Interactive Dashboard here: https://shorturl.at/hkFSl
 
 **Notable Observations**
 📍 **Global Overview (Dashboard Page 1)**
-•	Total Sales: $1.20 billion
-•	Total Profit: $332 million
+Total Sales: $1.20 billion
+Total Profit: $332 million
 •	Total Units Sold: 2,478,861
 •	Profit Margin: 42.30%
 🌍 Regional Profit Performance
