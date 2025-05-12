@@ -29,62 +29,62 @@ Interactive Dashboard here: https://shorturl.at/hkFSl
 
 **Notable Observations**
 📍 **Global Overview (Dashboard Page 1)**
-1. Total Sales: $1.20 billion
+1.	Total Sales: $1.20 billion
 2.	Total Profit: $332 million
 3.	Total Units Sold: 2,478,861
 4.	Profit Margin: 42.30%
-
 🌍 Regional Profit Performance
-•	Top Region by Profit: West ($90M)
-•	Lowest Region by Profit: Midwest ($53M)
+1.	Top Region by Profit: West ($90M)
+2.	Lowest Region by Profit: Midwest ($53M)
 🌐 Market Sales Contribution
-•	West leads with 30.3%, followed by Northeast (20.9%) and Southeast (17.8%)
+1.	West leads with 30.3%, followed by Northeast (20.9%) and Southeast (17.8%)
 
-📅 **Time-Based Trends (Dashboard Page 2)**
-•	Peak Sales & Profit Months: August and December show significant spikes in both revenue and profit.
-•	Highest Profit Margins: October and September indicate peaks in profit margin—likely due to back-to-school promotions and seasonal releases.
-•	Unit Sales: Highest in August (~300K+ units), aligning with seasonal spikes.
-•	Lowest Sales Period: February and April show the lowest performance, suggesting off-peak periods.
+**📅 Time-Based Trends (Dashboard Page 2)**
+1.	Peak Sales & Profit Months: August and December show significant spikes in both revenue and profit.
+2.	Highest Profit Margins: October and September indicate peaks in profit margin—likely due to back-to-school promotions and seasonal releases.
+3.	Unit Sales: Highest in August (~300K+ units), aligning with seasonal spikes.
+4.	Lowest Sales Period: February and April show the lowest performance, suggesting off-peak periods.
 
-**👟 Product & Category Performance (Dashboard Page 3)**
-🏆 Top 5 Most Profitable Product Subcategories
+**👟 Product & Category Performance (Dashboard Page 3)
+🏆 Top 5 Most Profitable Product Subcategories**
 1.	Men’s Street Footwear – Profit: $82.8M, Margin: 44.61%
 2.	Women’s Apparel – Profit: $68.65M, Margin: 44.13%
 3.	Men’s Athletic Footwear – Profit: $51.85M
 4.	Women’s Street Footwear – Profit: $45.21M
 5.	Men’s Apparel – Profit: $42.76M
-   
-📈 Highest Sales Volume Products
-•	Men’s Street Footwear – 593K units
-•	Men’s Athletic Footwear – 436K units
-•	Women’s Apparel – 434K units
+**📈 Highest Sales Volume Products**
+1.	Men’s Street Footwear – 593K units
+2.	Men’s Athletic Footwear – 436K units
+3.	Women’s Apparel – 434K units
 🚩 Profit-to-Sales Ratio
-•	Highest in Men’s Street Footwear (44.61%), lowest in Men’s Athletic Footwear (40.27%)
+1.	Highest in Men’s Street Footwear (44.61%), lowest in Men’s Athletic Footwear (40.27%)
 
-**🧍‍♂️ Customer Insights (Dashboard Page 4)**
+
+
+🧍‍♂️ Customer Insights (Dashboard Page 4)
 💳 Average Order Value (AOV) by Retailer
-•	West Gear: 518
-•	Amazon: 510
-•	Walmart: 509
-•	Foot Locker: 480
-•	Kohl’s: 470
-•	Sports Direct: 441
-
+1.	West Gear: 518
+2.	Amazon: 510
+3.	Walmart: 509
+4.	Foot Locker: 480
+5.	Kohl’s: 470
+6.	Sports Direct: 441
 🔁 Top Customers by Spend & Frequency
-•	Foot Locker shows the highest customer frequency, indicating strong retention and loyalty.
-•	West Gear contributes the most revenue, making it the highest-value customer overall.
+1.	Foot Locker shows the highest customer frequency, indicating strong retention and loyalty.
+2.	West Gear contributes the most revenue, making it the highest-value customer overall.
 
-**🏙️ Geographic & Market Detail (Dashboard Page 5)**
+🏙️ Geographic & Market Detail (Dashboard Page 5)
 🏆 Top Performing City
 •	New York:
-•	Sales: $56.76 million
-•	High profit margin, making it the most lucrative city market.
+1.	Sales: $56.76 million
+2.	High profit margin, making it the most lucrative city market.
 📦 Highest Average Order Size by Region
-•	Southeast Region: $174,629.75 per order – suggests strong bulk ordering or high-value customers.
+1.	Southeast Region: $174,629.75 per order – suggests strong bulk ordering or high-value customers.
 Sales Method Across All Products
-•	Online Sales Ranks high with 37.4% sales
-•	Outlets Sales comes next with 32.9% sales
-•	In-store Sales ranks lowest with 29.7% sales
+1.	Online Sales Ranks high with 37.4% sales
+2.	Outlets Sales comes next with 32.9% sales
+3.	In-store Sales ranks lowest with 29.7% sales
+
 
 **Key Takeaways & Recommendations**
 🎯 Retail and Regional Strategy
