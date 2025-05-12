@@ -29,10 +29,11 @@ Interactive Dashboard here: https://shorturl.at/hkFSl
 
 **Notable Observations**
 📍 **Global Overview (Dashboard Page 1)**
-1.  Total Sales: $1.20 billion
-2,  Total Profit: $332 million
-•	Total Units Sold: 2,478,861
-•	Profit Margin: 42.30%
+1. Total Sales: $1.20 billion
+2.	Total Profit: $332 million
+3.	Total Units Sold: 2,478,861
+4.	Profit Margin: 42.30%
+
 🌍 Regional Profit Performance
 •	Top Region by Profit: West ($90M)
 •	Lowest Region by Profit: Midwest ($53M)
