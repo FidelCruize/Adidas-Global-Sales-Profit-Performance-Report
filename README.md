@@ -9,22 +9,21 @@ Dataset here:(https://tinyurl.com/4zm3wt82)
 
 **Project Objectives**
 This analysis aims to answer key business questions, including:
-•	What is the total sales revenue across all countries? 
-•	Which region generates the highest profit, and which has the lowest? 
-•	What is the sales contribution (%) of each market? 
-•	How do monthly sales and profits vary across the year? 
-•	Which months show the highest discounts given, and how does this impact profit? 
-•	What are the top 5 most profitable product subcategories? 
-•	Which product has the highest sales volume, and in which market is it sold the most? 
-•	What is the average order value (AOV) for each customer segment? 
-•	Which customer has the highest total sales, and what is their order frequency? 
-•	Which city has the highest sales, and what is the associated profit margin? 
-•	How do sales and profits vary across regions and countries? 
-•	What is the overall discount percentage, and how does it affect profit margins? 
-•	How many orders fall into negative profit, and which segments are affected the most? 
-•	What is the profit-to-sales ratio for each product category and subcategory? 
-•	Which market or region has the highest average order size (sales per order)?
-
+1.	What is the total sales revenue across all countries? 
+2.	Which region generates the highest profit, and which has the lowest? 
+3.	What is the sales contribution (%) of each market? 
+4.	How do monthly sales and profits vary across the year? 
+5.	Which months show the highest discounts given, and how does this impact profit? 
+6.	What are the top 5 most profitable product subcategories? 
+7.	Which product has the highest sales volume, and in which market is it sold the most? 
+8.	What is the average order value (AOV) for each customer segment? 
+9.	Which customer has the highest total sales, and what is their order frequency? 
+10.	Which city has the highest sales, and what is the associated profit margin? 
+11.	How do sales and profits vary across regions and countries? 
+12.	What is the overall discount percentage, and how does it affect profit margins? 
+13.	How many orders fall into negative profit, and which segments are affected the most? 
+14.	What is the profit-to-sales ratio for each product category and subcategory? 
+15.	Which market or region has the highest average order size (sales per order)?
 
 Interactive Dashboard here: https://shorturl.at/hkFSl
 
