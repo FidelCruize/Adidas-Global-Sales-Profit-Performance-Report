@@ -85,19 +85,19 @@ Sales Method Across All Products
 2.	Outlets Sales comes next with 32.9% sales
 3.	In-store Sales ranks lowest with 29.7% sales
 
-
-**Key Takeaways & Recommendations**
-🎯 Retail and Regional Strategy
-•	Focus retention campaigns on Foot Locker and West Gear, which show high frequency and large revenue respectively.
-•	Leverage strong sales in West and Northeast regions with localized promotions and inventory expansion.
-📆 Seasonal Optimization
-•	August and December are peak months. Consider increasing product launches, marketing spend, and supply chain readiness during these periods.
+**Key Takeaways & Recommendations
+🎯 Retail and Regional Strategy**
+1.	Focus retention campaigns on Foot Locker and West Gear, which show high frequency and large revenue respectively.
+2.	Leverage strong sales in West and Northeast regions with localized promotions and inventory expansion.
+   
+**📆 Seasonal Optimization**
+1.	August and December are peak months. Consider increasing product launches, marketing spend, and supply chain readiness during these periods.
 
 **👟 Product Focus**
-•	Prioritize investment in Men’s Street Footwear and Women’s Apparel, which deliver top-tier profitability and sales volume.
+1.	Prioritize investment in Men’s Street Footwear and Women’s Apparel, which deliver top-tier profitability and sales volume.
 📍 Customer and City Targeting
-•	Target high-performing cities like New York for local events, influencer partnerships, and premium product offerings.
-•	Analyze what drives high order sizes in Southeast, and replicate those tactics in underperforming regions.
+1.	Target high-performing cities like New York for local events, influencer partnerships, and premium product offerings.
+2.	Analyze what drives high order sizes in Southeast, and replicate those tactics in underperforming regions.
 
 **Conclusion**
 The Adidas Global Sales Dashboard reveals rich insights into how different products, customers, and regions contribute to performance. By optimizing customer relationships, focusing on peak seasons, and strengthening regional strategies, Adidas can further capitalize on its global footprint to drive profitable growth.
