@@ -1,11 +1,13 @@
 # Adidas-Global-Sales-Profit-Performance-Report
 Project Overview
 This analysis explores Adidas’ global sales performance across product categories, markets, customer behaviour, and geographies. It evaluates monthly trends, top-selling products, regional profitability, and customer behaviour to uncover key performance drivers. The objective is to identify strengths, reveal growth opportunities, and offer data-backed recommendations to optimize profitability and operational efficiency.
-________________________________________
-Introduction
+
+**Introduction**
 Adidas is a globally recognized leader in the sportswear and footwear industry. With a presence in numerous international markets, the company’s performance relies heavily on understanding customer behaviour, regional profitability, and product category effectiveness. This report delivers a deep dive into Adidas’ 2021-2022 sales data to inform strategic business decisions.
-________________________________________
-Project Objectives
+
+Dataset here: https://1drv.ms/x/c/b7bce82d5399b462/Ef3B8RqA82BKm01-Y4b98VcBUSSrVvXi9DoV77zt3w0wqQ?e=hV7JdJ
+
+**Project Objectives**
 This analysis aims to answer key business questions, including:
 •	What is the total sales revenue across all countries? 
 •	Which region generates the highest profit, and which has the lowest? 
@@ -24,10 +26,10 @@ This analysis aims to answer key business questions, including:
 •	Which market or region has the highest average order size (sales per order)?
 
 
-Interactive Dashboard: https://app.powerbi.com/view?r=eyJrIjoiMDY0OWRlYjEtYjAzNy00MzE3LWExNmItNDJiYTJlMmQ0ODM0IiwidCI6ImY0MzFkYTgxLWIyYmQtNGRiNC1iNjk3LTNhOTUzYzA5MDk0NSJ9
-________________________________________
-Notable Observations
-📍 Global Overview (Dashboard Page 1)
+Interactive Dashboard here: https://shorturl.at/hkFSl
+
+**Notable Observations**
+📍 **Global Overview (Dashboard Page 1)**
 •	Total Sales: $1.20 billion
 •	Total Profit: $332 million
 •	Total Units Sold: 2,478,861
@@ -37,14 +39,14 @@ Notable Observations
 •	Lowest Region by Profit: Midwest ($53M)
 🌐 Market Sales Contribution
 •	West leads with 30.3%, followed by Northeast (20.9%) and Southeast (17.8%)
-________________________________________
-📅 Time-Based Trends (Dashboard Page 2)
+
+📅 **Time-Based Trends (Dashboard Page 2)**
 •	Peak Sales & Profit Months: August and December show significant spikes in both revenue and profit.
 •	Highest Profit Margins: October and September indicate peaks in profit margin—likely due to back-to-school promotions and seasonal releases.
 •	Unit Sales: Highest in August (~300K+ units), aligning with seasonal spikes.
 •	Lowest Sales Period: February and April show the lowest performance, suggesting off-peak periods.
-________________________________________
-👟 Product & Category Performance (Dashboard Page 3)
+
+**👟 Product & Category Performance (Dashboard Page 3)**
 🏆 Top 5 Most Profitable Product Subcategories
 1.	Men’s Street Footwear – Profit: $82.8M, Margin: 44.61%
 2.	Women’s Apparel – Profit: $68.65M, Margin: 44.13%
@@ -57,10 +59,8 @@ ________________________________________
 •	Women’s Apparel – 434K units
 🚩 Profit-to-Sales Ratio
 •	Highest in Men’s Street Footwear (44.61%), lowest in Men’s Athletic Footwear (40.27%)
-________________________________________
 
-
-🧍‍♂️ Customer Insights (Dashboard Page 4)
+**🧍‍♂️ Customer Insights (Dashboard Page 4)**
 💳 Average Order Value (AOV) by Retailer
 •	West Gear: 518
 •	Amazon: 510
@@ -71,8 +71,8 @@ ________________________________________
 🔁 Top Customers by Spend & Frequency
 •	Foot Locker shows the highest customer frequency, indicating strong retention and loyalty.
 •	West Gear contributes the most revenue, making it the highest-value customer overall.
-________________________________________
-🏙️ Geographic & Market Detail (Dashboard Page 5)
+
+**🏙️ Geographic & Market Detail (Dashboard Page 5)**
 🏆 Top Performing City
 •	New York:
 •	Sales: $56.76 million
@@ -83,19 +83,19 @@ Sales Method Across All Products
 •	Online Sales Ranks high with 37.4% sales
 •	Outlets Sales comes next with 32.9% sales
 •	In-store Sales ranks lowest with 29.7% sales
-________________________________________
-Key Takeaways & Recommendations
+
+**Key Takeaways & Recommendations**
 🎯 Retail and Regional Strategy
 •	Focus retention campaigns on Foot Locker and West Gear, which show high frequency and large revenue respectively.
 •	Leverage strong sales in West and Northeast regions with localized promotions and inventory expansion.
 📆 Seasonal Optimization
 •	August and December are peak months. Consider increasing product launches, marketing spend, and supply chain readiness during these periods.
 
-👟 Product Focus
+**👟 Product Focus**
 •	Prioritize investment in Men’s Street Footwear and Women’s Apparel, which deliver top-tier profitability and sales volume.
 📍 Customer and City Targeting
 •	Target high-performing cities like New York for local events, influencer partnerships, and premium product offerings.
 •	Analyze what drives high order sizes in Southeast, and replicate those tactics in underperforming regions.
-________________________________________
-Conclusion
+
+**Conclusion**
 The Adidas Global Sales Dashboard reveals rich insights into how different products, customers, and regions contribute to performance. By optimizing customer relationships, focusing on peak seasons, and strengthening regional strategies, Adidas can further capitalize on its global footprint to drive profitable growth.
